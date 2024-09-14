@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+}
+header{
+    padding: 16px 0;
+    text-align: center;
+}
+ul{
+    background-color: black;
+    color: white;
+    height: 50px;
+    padding-top: 25px;
+}
+
+ul li{
+    display: inline;
+    margin-right: 20px;
+    
+}
+ul li a{
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+button{
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    border: none;
+}
+button:hover{
+    color: black;
+    background-color: skyblue;
+    border: none;
+}
+.one{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin-right: 40px;
+    border-radius: 15px;
+    padding: 5px;
+    margin-top: 50px;
+}
+#foot{
+    background-color: black;
+    color: white;
+    height: 50px;
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 100px;
+
+}
+
+
